@@ -1,0 +1,8 @@
+# igrnoring logs
+logs
+
+# userdata (config, auth, chats, etc)
+clients
+
+# telegram cli binaries
+td
